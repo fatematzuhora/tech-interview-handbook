@@ -36,7 +36,7 @@ Tell them some highlights from your favorite/most impressive projects and includ
 
 ### Why do _they_ want _you_?
 
-Tell the interviewer why you would make a good hire. Is your experience relevant to the company? Have you used a similar tech stack as the company or built relevant products? What unique talent(s) do you have that makes gives them confidence about your ability to contribute to the company?
+Tell the interviewer why you would make a good hire. Is your experience relevant to the company? Have you used a similar tech stack as the company or built relevant products? What unique talent(s) do you have that may give them confidence about your ability to contribute to the company?
 
 ### Practice!
 
@@ -52,7 +52,7 @@ Prepare a self introduction that follows the following outline (inspired by "Cra
 
 1. A sentence about your current or most recent role.
 1. A few sentences about your (academic) background. What did you focus on?
-1. Some sentences about your professional experience after school/university. Where did you work? What projects did you deal with? What where typical challenges and tasks? Which technologies did you use?
+1. Some sentences about your professional experience after school/university. Where did you work? What projects did you deal with? What were the typical challenges and tasks? Which technologies did you use?
 1. Finish with a statement saying why you are seeking a new job opportunity and why you are interested in the role you applied for.
 
 ## Examples

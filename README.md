@@ -5,6 +5,10 @@
     <img src="website/static/img/logo.svg" alt="Tech Interview Handbook" width="400">
   </a>
   <br>
+  <a href="https://gitpod.io/#https://github.com/yangshun/tech-interview-handbook">
+    <img src="https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod" alt="Gitpod Ready to Code">
+  </a>
+  <br>
   <p>
     <em>Credits: <a href="https://dribbble.com/shots/3831443-Tech-Interview-Handbook">Illustration</a> by <a href="https://dribbble.com/yangheng">@yangheng</a></em>
   </p>
@@ -65,6 +69,18 @@ If you are interested in how data structures are implemented, check out [Lago](h
 ## Contributing
 
 There are no formal contributing guidelines at the moment as things are still in flux and we might find a better approach to structure content as we go along. You are welcome to contribute whatever you think will be helpful to fellow engineers. If you would like to contribute content for different domains, feel free to create an issue or submit a pull request and we can discuss further.
+
+### Online one-click setup for contributing
+
+You can use Gitpod (A free online VS Code-like IDE) for contributing online. With a single click it will launch a workspace and automatically:
+
+- clone the tech-interview-handbook repo.
+- install the dependencies.
+- run `yarn start`.
+
+So that you can start straight away.
+
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/yangshun/tech-interview-handbook)
 
 ### Contributors
 
